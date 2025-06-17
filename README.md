@@ -37,26 +37,26 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulucaslim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulucaslim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eulucaslim&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eulucaslim&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulucaslim&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Projetos em Destaque
